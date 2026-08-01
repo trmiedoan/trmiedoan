@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Hiện là một sinh viên đang trong giai đoạn thực tập mảng Backend, luôn trên hành trình khám phá những điều mới mẻ trong thế giới công nghệ. Và tôi tìm thấy niềm đam mê không chỉ trong công nghệ mà còn cả trong nghệ thuật.</p>
+<p align="left"> ...........................................................................................</p>
 
 ###
 
@@ -81,61 +81,39 @@
 </div>
 
 <div align="center"> 
-	<a href="https://github.com/TuTran21195/internetofthings-mini-proj">
+	<a href="https://github.com/trmiedoan/internetofthings-mini-proj">
 	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=internetofthings-mini-proj&description_lines_count=3&theme=gruvbox" />
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trmiedoan&repo=internetofthings-mini-proj&description_lines_count=3&theme=gruvbox" />
 	</a>    
-	<a href="https://github.com/TuTran21195/ptit-android-app-java">
+	<a href="https://github.com/trmiedoan/ptit-android-app-java">
 	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=ptit-android-app-java&theme=dark&description_lines_count=3" />
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trmiedoan&repo=ptit-android-app-java&theme=dark&description_lines_count=3" />
 	</a>
 </div>
 
 <div align="center"> 
-	<a href="https://github.com/TuTran21195/steg-labs">
+	<a href="https://github.com/trmiedoan/steg-labs">
 	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=steg-labs&description_lines_count=3&theme=onedark" />
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trmiedoan&repo=steg-labs&description_lines_count=3&theme=onedark" />
 	</a>    
-	<a href="https://github.com/TuTran21195/PTTKHT_RestMan_Code24">
+	<a href="https://github.com/trmiedoan/PTTKHT_RestMan_Code24">
 	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=PTTKHT_RestMan_Code24&description_lines_count=3&theme=cobalt" />
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trmiedoan&repo=PTTKHT_RestMan_Code24&description_lines_count=3&theme=cobalt" />
 	</a>
 </div>
 
 
 ###
 
-<h3 align="left">My Personal Touches</h3>
-
-- **Sách** - Đầu sách yêu thích và đáng suy ngẫm:
-	- Đúng việc - Giản Tư Trung
-	- Rừng Na Uy - Murakami Haruki
-	- Con đường cách mạng (Revolutionary Road) - Richard Yates
-	- Giới hạn Roche - Kỷ Bôi
-	- Hiểu về trái tim - Minh Niệm
-	- Hướng nội - Susan Cain
-- **Phim ảnh** - Những bộ phim đáng chiêm nghiệm:
-	- Revolutionary Road (2008)
-	- Big Fish (2003)
-	- Perfect Days (2023)
-	- Happy Together - Xuân quang xạ chiết (1997)
-	- A Distant Place (2020)
-- **Âm nhạc** - Những bản nhạc phát đi phát lại
-	- White Mustang - Lana Del Rey
-	- Merry Christmas Mr. Lawrence - Ryuichi Sakamoto
-	- Trời đánh tránh ta, ta va trúng người (Album) - The Flob
-	- NỨT (Đôi Chân Đôi Tay Đôi Mắt Trái Tim) - Ngọt
-- **Podcast** 
-	- Được mất - Vietcetera
-	- Bạn thân bản thân - Vietcetera
 
 
 ###
 
 <h4 align="left">Digital Notes</h4>
-Một không gian nhỏ nơi tôi chia sẻ lại các kiến thức mình đã học được.
 
-Ghé thăm Digital Notes của tôi: [Tutran Garden](https://tutran-garden.vercel.app/)
+- [Trmie Digital garden](https://trmie-digital-garden.vercel.app/)
+
+- [Tutran Garden](https://tutran-garden.vercel.app/)
 ###
 
 <h3 align="left">Connect with me</h3>
@@ -143,7 +121,7 @@ Ghé thăm Digital Notes của tôi: [Tutran Garden](https://tutran-garden.verce
 ###
 
 <div align="center">
-  <a href="mailto:violet21195@gmail.com?subject=[Github]%20Hello%20TuTran" target="_blank">
+  <a href="mailto:violet21195@gmail.com?subject=[Github]%20Hello%20TrmieDoan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/chrome.96morr/" target="_blank">
@@ -157,15 +135,15 @@ Ghé thăm Digital Notes của tôi: [Tutran Garden](https://tutran-garden.verce
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TuTran21195/TuTran21195/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TuTran21195/TuTran21195/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TuTran21195/TuTran21195/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trmiedoan/trmiedoan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trmiedoan/trmiedoan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trmiedoan/trmiedoan/output/pacman-contribution-graph.svg">
 </picture>
 
 
 ###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TuTran21195&label=Profile%20views&color=0e75b6&style=flat" alt="TuTran21195" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=trmiedoan&label=Profile%20views&color=0e75b6&style=flat" alt="trmiedoan" /> </p>
 
 ###
 
